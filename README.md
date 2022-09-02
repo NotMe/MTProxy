@@ -16,8 +16,8 @@ yum groupinstall "Development Tools"
 
 Clone the repo:
 ```bash
-git clone https://github.com/TelegramMessenger/MTProxy
-cd MTProxy
+git clone https://github.com/NotMe/TelegramMTProxyARM
+cd TelegramMTProxyARM
 ```
 
 To build, simply run `make`, the binary will be in `objs/bin/mtproto-proxy`:
